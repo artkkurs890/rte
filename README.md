@@ -19,7 +19,6 @@ Inside the menu, you can toggle modules, configure their parameters, and rebind 
 * 🕶️ **Visual Tweaks & NoRender** — Fixes for vanilla graphical bugs and a highly customizable toggle to disable performance-heavy or distracting render elements (fog, particles, fire overlay, camera shake) for a clean visual experience.
 * 💎 **Exclusive Features**:
   * **Built-in Mechvibes** — An audio engine that plays satisfying mechanical keyboard clicks directly through Minecraft's native sound system as you type.
-  * **Self-Hosted e4mc (Tunneling)** — Open your local LAN world to friends over the internet in a single click using a custom domain (`13377777.xyz`).
   * **In-Game Account Switcher** — A sleek profile manager integrated right into the main menu for hot-swapping between official Microsoft accounts and offline profiles without restarting the game.
 
 ---
